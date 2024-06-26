@@ -48,7 +48,7 @@ This Node.js application serves as a currency exchange API server using the Curr
 
 3. **Start Server:**
    ```
-   npm start
+   node server.js
    ```
    The server will run at http://localhost:3000 by default.
 
